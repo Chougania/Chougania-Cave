@@ -13,6 +13,13 @@ Ce dossier prépare les ressources du portage d'Alex's Caves pour leur réutilis
 
 Le dépôt source est un projet Java/NeoForge 1.21.1 (NeoForge 21.1.219), pas un workspace MCreator. Le JAR fourni séparément cible Minecraft 1.21.8 : il ne faut pas mélanger ses dépendances avec cette branche 1.21.1.
 
+## Avancement de la migration
+
+- Inventaire extrait des registres Java : 352 blocs, 189 items, 83 entités, 4 fluides et 6 biomes.
+- Voir `registry-migration-inventory.csv` et `registry-migration-inventory.json` pour le détail.
+- Voir `MIGRATION_PLAN.md` pour l'ordre de reconstruction et `WORKSPACE_SETUP.md` pour créer le workspace de base.
+- Le ZIP partageable final doit être exporté par MCreator après création du workspace ; aucun ZIP MCreator non testé n'est fourni dans cette branche.
+
 ## Préparer les ressources
 
 1. Télécharge ou clone la branche `mcreator-2025.3-workspace`.
