@@ -55,7 +55,6 @@ Copy-Category (Join-Path $assetsRoot "textures") "textures" (Join-Path $OutputRo
 Copy-Category (Join-Path $assetsRoot "models") "models" (Join-Path $OutputRoot "assets/models")
 Copy-Category (Join-Path $assetsRoot "blockstates") "blockstates" (Join-Path $OutputRoot "assets/blockstates")
 Copy-Category (Join-Path $assetsRoot "sounds") "sounds" (Join-Path $OutputRoot "assets/sounds")
-Copy-Category (Join-Path $assetsRoot "sounds.json") "sound_definitions" (Join-Path $OutputRoot "assets")
 
 # Langues, particules, shaders, modèles d'entités et autres ressources restantes.
 Get-ChildItem -LiteralPath $assetsRoot -File -Recurse | Where-Object {
