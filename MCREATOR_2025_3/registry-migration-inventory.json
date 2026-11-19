@@ -1,0 +1,3825 @@
+{
+  "sourceBranch": "main",
+  "targetBranch": "mcreator-2025.3-workspace",
+  "target": {
+    "mcreator": "2025.3",
+    "minecraft": "1.21.1",
+    "generator": "neoforge-1.21.1",
+    "neoforge": "21.1.190",
+    "modid": "chouganiacave"
+  },
+  "sourceNamespace": "alexscaves",
+  "registryCounts": {
+    "blocks": 352,
+    "items": 189,
+    "entities": 83,
+    "fluids": 4
+  },
+  "total": 634,
+  "entries": [
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssal_altar",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_brick_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_brick_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_brick_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_bricks",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_pillar",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_tiles",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:abyssmarine_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:acid",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:acidic_radrock",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:amber",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:amber_monolith",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:ambersol",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:ambersol_light",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:ancient_leaves",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:ancient_sapling",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:archaic_vine",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:archaic_vine_plant",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:atlatitan_egg",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:azure_magnet",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:azure_neodymium_node",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:azure_neodymium_pillar",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:baleen_bone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:beholder",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:bioluminescent_torch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:bioluminescent_wall_torch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_azure_neodymium",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_chiseled_chocolate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_chocolate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_chocolate_frosting",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_frosted_chocolate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_frosting",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_pearl",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_polished_chocolate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_scarlet_neodymium",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_uranium",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:block_of_vanilla_frosting",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:bone_nodule",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:bone_ribs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:bone_worms",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cake_layer",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:candy_cane",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:candy_cane_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:candy_cane_pole",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:carmine_froglight",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_ambersol",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_dark",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_dino_nuggets",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_enderman",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_footprint",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_footprints",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_grottoceratops",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_grottoceratops_friend",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_1",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_2",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_3",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_4",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_5",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_6",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_7",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_8",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_mystery_9",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_pewen",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_portal",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_relicheirus",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_relicheirus_slash",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_subterranodon",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_subterranodon_ride",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_tree_stars",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_tremorsaurus",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_tremorsaurus_friend",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_trilocaris",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_vallumraptor_chest",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cave_painting_vallumraptor_friend",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:chiseled_candy_cane_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:chocolate_ice_cream",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cinder_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cinder_block_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cinder_block_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cinder_block_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:confection_oven",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:conversion_crucible",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cooked_dinosaur_chop",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cookie_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:copper_valve",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:coprolith",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:coprolith_coal_ore",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:coprolith_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:coprolith_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:coprolith_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:curly_fern",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:cycad",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:depth_glass",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:dinosaur_chop",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:dough_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:drain",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:dusk_anemone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:energized_galena_azure",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:energized_galena_neutral",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:energized_galena_scarlet",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:enigmatic_engine",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:fern_thatch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:fiddlehead",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:fissure_primal_magma",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:flood_basalt",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:flytrap",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:forsaken_idol",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_brick_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_brick_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_brick_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_bricks",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_door",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frosted_gingerbread_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:frostmint",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_brick_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_brick_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_brick_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_bricks",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_iron_ore",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_pillar",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_spire",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:galena_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:geothermal_vent",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:geothermal_vent_medium",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:geothermal_vent_thin",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:giant_sweetberry",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbarrel",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_brick_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_brick_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_brick_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_bricks",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_door",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gingerbread_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gobthumper",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:grottoceratops_egg",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guano_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guano_layer",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_brick_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_brick_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_brick_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_bricks",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_chiseled",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_redstone_ore",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_tiles",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:guanostone_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gummy_ring_blue",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gummy_ring_green",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gummy_ring_pink",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gummy_ring_red",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:gummy_ring_yellow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:hazmat_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:hazmat_skull_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:hazmat_warning_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:heart_of_iron",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:hollow_bone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:hologram_projector",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:large_peppermint",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:licoroot",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:licoroot_sprout",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:licoroot_vine",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:limestone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:limestone_chiseled",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:limestone_pillar",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:limestone_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:limestone_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:limestone_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:lollipop_bunch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:magnetic_activator",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:magnetic_levitation_rail",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:magnetic_light",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:metal_barrel",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:metal_rebar",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:metal_scaffolding",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:metal_swarf",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:midnight_anemone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:moth_ball",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:muck",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:mussel",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:nuclear_bomb",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:nuclear_furnace",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:nuclear_furnace_component",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:nuclear_siren",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:packed_galena",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:peering_coprolith",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_branch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_button",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_door",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_fence",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_fence_gate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_hanging_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_log",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_pines",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_planks",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_pressure_plate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_sapling",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_trapdoor",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_wall_hanging_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_wall_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:pewen_wood",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:ping_pong_sponge",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:porous_coprolith",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_ancient_sapling",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_curly_fern",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_cycad",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_fiddlehead",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_flytrap",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_pewen_pines",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_pewen_sapling",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_thornwood_branch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_thornwood_sapling",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:potted_underweed",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:primal_magma",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:purple_soda",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:quarry",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_black",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_blue",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_brown",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_cyan",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_gray",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_green",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_light_blue",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_light_gray",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_lime",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_magenta",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_orange",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_pink",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_purple",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_red",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_white",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radon_lamp_yellow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_brick_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_brick_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_brick_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_bricks",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_chiseled",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_uranium_ore",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:radrock_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:relicheirus_egg",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_black",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_blue",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_brown",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_cyan",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_gray",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_green",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_light_blue",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_light_gray",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_lime",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_magenta",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_orange",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_pink",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_purple",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_red",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_white",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rock_candy_yellow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rusty_barrel",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rusty_rebar",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rusty_scaffolding",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rusty_scrap_metal",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:rusty_scrap_metal_plate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:scarlet_magnet",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:scarlet_neodymium_node",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:scarlet_neodymium_pillar",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:scrap_metal",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:scrap_metal_plate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:siren_light",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:small_peppermint",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_bone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_bone_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_bone_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_bone_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_coprolith",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_coprolith_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_coprolith_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_coprolith_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_limestone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_limestone_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_limestone_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:smooth_limestone_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:spelunkery_table",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sprinkles",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:stripped_candy_cane_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:stripped_candy_cane_pole",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:stripped_pewen_log",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:stripped_pewen_wood",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:stripped_thornwood_log",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:stripped_thornwood_wood",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:subterranodon_egg",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sugar_glass",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sulfur",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sulfur_bud_large",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sulfur_bud_medium",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sulfur_bud_small",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sulfur_cluster",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sundrop",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sweet_puff",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:sweetberry_ice_cream",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:tesla_bulb",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thin_bone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_branch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_button",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_door",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_fence",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_fence_gate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_hanging_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_log",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_planks",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_pressure_plate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_sapling",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_trapdoor",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_wall_hanging_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_wall_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:thornwood_wood",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:tree_star",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:tremorsaurus_egg",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:tremorzilla_egg",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:tube_worm",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:twilight_anemone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:underweed",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:unrefined_waste",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:uranium_rod",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:vallumraptor_egg",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:vanilla_ice_cream",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:volcanic_core",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:wafer_cookie_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:wafer_cookie_slab",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:wafer_cookie_stairs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:wafer_cookie_wall",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "blocks",
+      "id": "alexscaves:waste_drum",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/ACBlockRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:acid_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:advancement_tab_icon",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:alex_meal",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:amber_curiosity",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:azure_neodymium_ingot",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:bioluminescent_torch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:bioluminesscence",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:biome_treat",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:burrowing_arrow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:candy_cane_hook",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:caramel",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:caramel_apple",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cave_book",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cave_codex",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cave_map",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cave_map_filled",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cave_map_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cave_map_loading",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cave_tablet",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:charred_remnant",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:chocolate_ice_cream_scoop",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cinder_brick",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cloak_of_darkness",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cooked_lanternfish",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cooked_mussel",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cooked_radgill",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cooked_trilocaris_tail",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:cooked_tripodfish",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:corrodent_teeth",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dark_tatters",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:darkened_apple",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:deep_sea_sushi_roll",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:depth_charge",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:desolate_dagger",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dinosaur_nugget",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dinosaur_pottery_sherd",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dinosaur_train",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:disc_fragment_fusion",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:disc_fragment_tasty",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:diving_boots",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:diving_chestplate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:diving_helmet",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:diving_leggings",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dreadbow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dreadbow_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dreadbow_pulling_0_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dreadbow_pulling_1_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:dreadbow_pulling_2_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:extinction_spear",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:extinction_spear_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:ferrouslime_ball",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:fertilizer",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:fissile_core",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:floater",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:footprint_pottery_sherd",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:frostmint_spear",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:frostmint_spear_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:galena_gauntlet",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:game_controller",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gazing_pearl",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gelatin_blue",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gelatin_green",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gelatin_pink",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gelatin_red",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gelatin_yellow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gingerbread_boots",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gingerbread_chestplate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gingerbread_crumbs",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gingerbread_helmet",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gingerbread_leggings",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:glow_ink_bomb",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gossamer_worm_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:green_soylent",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:guano",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:guardian_pottery_sherd",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:gumball_pile",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:hazmat_boots",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:hazmat_chestplate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:hazmat_leggings",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:hazmat_mask",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:heavy_bone",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:heavyweight",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:hero_pottery_sherd",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:holocoder",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:hood_of_darkness",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:hot_chocolate_bottle",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:immortal_embryo",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:ink_bomb",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:jelly_bean",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:lanternfish",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:lanternfish_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:licowitch_radiant_essence",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:limestone_spear",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:limestone_spear_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:magic_conch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:marine_snow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:moth_dust",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:music_disc_fusion",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:music_disc_tasty",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:notor_gizmo",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:occult_gem",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:ominous_catalyst",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:ortholance",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:ortholance_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pearl",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:peppermint_powder",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pewen_boat",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pewen_chest_boat",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pewen_door",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pewen_hanging_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pewen_sap",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pewen_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pine_nuts",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:polarity_armor_trim_smithing_template",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:polymer_plate",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:primitive_club",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:primitive_club_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:primordial_helmet",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:primordial_pants",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:primordial_soup",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:primordial_tunic",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:pure_darkness",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:purple_soda_bottle",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:purple_soda_bottle_rocket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:purple_soda_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:quarry_smasher",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:radgill",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:radgill_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:radiant_essence",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:radon_bottle",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:rainbounce_boots",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:raw_azure_neodymium",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:raw_scarlet_neodymium",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:raygun",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:remote_detonator",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:resistor_shield",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sack_of_sating",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:scarlet_neodymium_ingot",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sea_glass_shards",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sea_pig",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sea_pig_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sea_staff",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sea_staff_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:seeking_arrow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:seething_stew",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:serene_salad",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:shadow_silk",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sharpened_candy_cane",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:shot_gum",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:slam",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:spawn_egg_",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:spelunkie",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:stinky_fish",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:submarine",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sugar_staff",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sugar_staff_inventory",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sulfur_dust",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sundae",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweet_tooth",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetberry_ice_cream_scoop",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_blue",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_blue_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_green",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_green_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_pink",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_pink_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_red",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_red_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_yellow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:sweetish_fish_yellow_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:tectonic_shard",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:telecore",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:thornwood_boat",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:thornwood_chest_boat",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:thornwood_door",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:thornwood_hanging_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:thornwood_sign",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:totem_of_possession",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:tough_hide",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:toxic_paste",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:trilocaris_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:trilocaris_tail",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:tripodfish",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:tripodfish_bucket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:uranium",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:uranium_shard",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:vanilla_ice_cream_scoop",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:vesper_stew",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "items",
+      "id": "alexscaves:vesper_wing",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/item/ACItemRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:atlatitan",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:beholder_eye",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:boat",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:boundroid",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:boundroid_winch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:brainiac",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:burrowing_arrow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:candicorn",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:candy_cane_hook",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:caniac",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:caramel_cube",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:chest_boat",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:cinder_brick",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:corrodent",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:crushed_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:dark_arrow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:deep_one",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:deep_one_knight",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:deep_one_mage",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:depth_charge",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:desolate_dagger",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:dinosaur_spirit",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:extinction_spear",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:falling_frostmint",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:falling_guano",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:falling_tree_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:ferrouslime",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:floater",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:forsaken",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:frostmint_spear",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gammaroach",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gingerbread_man",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gloomoth",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gossamer_worm",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:grottoceratops",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:guano",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gum_worm",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gum_worm_segment",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gumball",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gumbeeper",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:gummy_bear",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:hullbreaker",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:ink_bomb",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:lanternfish",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:licowitch",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:limestone_spear",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:luxtructosaurus",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:magnetic_weapon",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:magnetron",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:melted_caramel",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:mine_guardian",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:mine_guardian_anchor",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:moving_metal_block",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:notor",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:nuclear_bomb",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:nuclear_explosion",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:nucleeper",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:quarry_smasher",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:radgill",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:raycat",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:relicheirus",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:sea_pig",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:seeking_arrow",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:soda_bottle_rocket",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:spinning_peppermint",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:submarine",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:subterranodon",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:sugar_staff_hex",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:sweetish_fish",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:teletor",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:tephra",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:thrown_ice_cream_scoop",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:thrown_waste_drum",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:tremorsaurus",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:tremorzilla",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:trilocaris",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:tripodfish",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:underzealot",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:vallumraptor",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:vesper",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:watcher",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:water_bolt",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "entities",
+      "id": "alexscaves:wave",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/entity/ACEntityRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "fluids",
+      "id": "alexscaves:acid",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/fluid/ACFluidRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "fluids",
+      "id": "alexscaves:acid_flowing",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/fluid/ACFluidRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "fluids",
+      "id": "alexscaves:purple_soda",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/fluid/ACFluidRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "fluids",
+      "id": "alexscaves:purple_soda_flowing",
+      "source": "src/main/java/com/github/alexmodguy/alexscaves/server/block/fluid/ACFluidRegistry.java",
+      "conversion": "à recréer comme mod element MCreator; code personnalisé si comportement spécifique"
+    },
+    {
+      "type": "biome",
+      "id": "alexscaves:magnetic_caves",
+      "source": "ACBiomeRegistry.java + data/alexscaves/worldgen/biome",
+      "conversion": "biome mod element; génération de terrain et intégration Citadel à reprendre séparément"
+    },
+    {
+      "type": "biome",
+      "id": "alexscaves:primordial_caves",
+      "source": "ACBiomeRegistry.java + data/alexscaves/worldgen/biome",
+      "conversion": "biome mod element; génération de terrain et intégration Citadel à reprendre séparément"
+    },
+    {
+      "type": "biome",
+      "id": "alexscaves:toxic_caves",
+      "source": "ACBiomeRegistry.java + data/alexscaves/worldgen/biome",
+      "conversion": "biome mod element; génération de terrain et intégration Citadel à reprendre séparément"
+    },
+    {
+      "type": "biome",
+      "id": "alexscaves:abyssal_chasm",
+      "source": "ACBiomeRegistry.java + data/alexscaves/worldgen/biome",
+      "conversion": "biome mod element; génération de terrain et intégration Citadel à reprendre séparément"
+    },
+    {
+      "type": "biome",
+      "id": "alexscaves:forlorn_hollows",
+      "source": "ACBiomeRegistry.java + data/alexscaves/worldgen/biome",
+      "conversion": "biome mod element; génération de terrain et intégration Citadel à reprendre séparément"
+    },
+    {
+      "type": "biome",
+      "id": "alexscaves:candy_cavity",
+      "source": "ACBiomeRegistry.java + data/alexscaves/worldgen/biome",
+      "conversion": "biome mod element; génération de terrain et intégration Citadel à reprendre séparément"
+    }
+  ]
+}
