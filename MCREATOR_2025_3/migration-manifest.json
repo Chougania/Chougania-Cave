@@ -8,7 +8,8 @@
     "sourceNeoforge": "21.1.219",
     "modid": "chouganiacave",
     "sourceNamespace": "alexscaves",
-    "sourceJavaPackage": "com.github.alexmodguy.alexscaves"
+    "sourceJavaPackage": "com.github.alexmodguy.alexscaves",
+    "targetJavaPackage": "com.chougan2.chouganiacave"
   },
   "dependencies": {
     "required": [
@@ -78,5 +79,10 @@
     "originalAuthor": "AlexModGuy",
     "license": "GPL-3.0",
     "preserveLicense": true
+  },
+  "migrationStatus": {
+    "stage": "preparation-and-inventory",
+    "workspaceZip": "not-generated",
+    "reason": "A valid shareable workspace archive must be exported by MCreator 2025.3 after workspace creation; a hand-built archive would be unverified."
   }
 }
