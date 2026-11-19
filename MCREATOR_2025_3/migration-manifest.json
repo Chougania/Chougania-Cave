@@ -6,10 +6,12 @@
     "java": 21,
     "neoforge": "21.1.190",
     "sourceNeoforge": "21.1.219",
-    "modid": "chouganiacave",
+    "modid": "chougania_cave",
     "sourceNamespace": "alexscaves",
     "sourceJavaPackage": "com.github.alexmodguy.alexscaves",
-    "targetJavaPackage": "com.chougan2.chouganiacave"
+    "targetJavaPackage": "net.mcreator.chouganiacave",
+    "generatorVersion": "21.1.190",
+    "configurationEvidence": "chougania_cave-1.0.0-neoforge-1.21.1.jar: META-INF/neoforge.mods.toml and net/mcreator/chouganiacave/ChouganiaCaveMod.class"
   },
   "dependencies": {
     "required": [
@@ -83,6 +85,13 @@
   "migrationStatus": {
     "stage": "preparation-and-inventory",
     "workspaceZip": "not-generated",
-    "reason": "A valid shareable workspace archive must be exported by MCreator 2025.3 after workspace creation; a hand-built archive would be unverified."
+    "reason": "A valid shareable workspace archive must be exported by MCreator 2025.3 after workspace creation; a hand-built archive would be unverified.",
+    "jarInspected": {
+      "minecraft": "1.21.1",
+      "neoforge": "21.1.190",
+      "modid": "chougania_cave",
+      "package": "net.mcreator.chouganiacave",
+      "isWorkspaceZip": false
+    }
   }
 }
