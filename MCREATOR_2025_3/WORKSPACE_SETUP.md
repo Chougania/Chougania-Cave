@@ -7,8 +7,8 @@ Ce guide concerne le portage du dépôt vers **Minecraft 1.21.1 / NeoForge**. Ne
 1. Ouvrir MCreator 2025.3.
 2. Créer un workspace **Minecraft mod / NeoForge 1.21.1**.
 3. Nom : `Chougania Cave`.
-4. Mod ID : `chouganiacave`.
-5. Package Java : `com.chougan2.chouganiacave`.
+4. Mod ID : `chougania_cave`.
+5. Package Java : `net.mcreator.chouganiacave` (confirmé par les classes du JAR fourni).
 6. Langage : Java 21.
 7. Enregistrer puis fermer MCreator.
 
