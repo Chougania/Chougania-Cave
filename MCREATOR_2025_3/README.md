@@ -8,10 +8,10 @@ Ce dossier prépare les ressources du portage d'Alex's Caves pour leur réutilis
 - Minecraft Java 1.21.1
 - Générateur NeoForge
 - Java 21
-- Mod ID conseillé : `chouganiacave`
+- Mod ID confirmé par le JAR MCreator fourni : `chougania_cave`
 - Dépendance à prévoir pour le portage complet : Citadel
 
-Le dépôt source est un projet Java/NeoForge 1.21.1 (NeoForge 21.1.219), pas un workspace MCreator. Le JAR fourni séparément cible Minecraft 1.21.8 : il ne faut pas mélanger ses dépendances avec cette branche 1.21.1.
+Le dépôt source est un projet Java/NeoForge 1.21.1 (NeoForge 21.1.219), pas un workspace MCreator. Le JAR fourni confirme la cible Minecraft 1.21.1, NeoForge 21.1.190 et le mod ID `chougania_cave`. C'est un JAR compilé de mod, pas l'archive ZIP partageable du workspace.
 
 ## Avancement de la migration
 
@@ -44,7 +44,7 @@ Les chemins source sont conservés autant que possible. Les fichiers sont prépa
 
 ## Démarrer le workspace
 
-Dans MCreator 2025.3, crée un workspace NeoForge pour Minecraft 1.21.1 avec le mod ID `chouganiacave`. Importe les textures, modèles et sons via les gestionnaires de ressources, puis recrée les mod elements (blocs, items, recettes, entités, biomes, etc.) à partir du manifeste.
+Dans MCreator 2025.3, crée un workspace NeoForge pour Minecraft 1.21.1 avec le mod ID `chougania_cave`. Importe les textures, modèles et sons via les gestionnaires de ressources, puis recrée les mod elements (blocs, items, recettes, entités, biomes, etc.) à partir du manifeste.
 
 ## Limites connues
 
