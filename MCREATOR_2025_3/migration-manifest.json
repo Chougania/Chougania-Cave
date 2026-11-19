@@ -1,0 +1,82 @@
+{
+  "target": {
+    "mcreator": "2025.3",
+    "minecraft": "1.21.1",
+    "loader": "NeoForge",
+    "java": 21,
+    "neoforge": "21.1.190",
+    "sourceNeoforge": "21.1.219",
+    "modid": "chouganiacave",
+    "sourceNamespace": "alexscaves",
+    "sourceJavaPackage": "com.github.alexmodguy.alexscaves"
+  },
+  "dependencies": {
+    "required": [
+      "Citadel"
+    ],
+    "optional": [
+      "JEI"
+    ]
+  },
+  "caveBiomes": [
+    {
+      "id": "primordial_caves",
+      "label": "Grottes primordiales"
+    },
+    {
+      "id": "abyssal_chasm",
+      "label": "Gouffre abyssal"
+    },
+    {
+      "id": "forlorn_hollows",
+      "label": "Cavités désolées"
+    },
+    {
+      "id": "toxic_caves",
+      "label": "Grottes toxiques"
+    },
+    {
+      "id": "magnetic_caves",
+      "label": "Grottes magnétiques"
+    },
+    {
+      "id": "candy_cavity",
+      "label": "Cavité sucrée"
+    }
+  ],
+  "sourceResourceRoots": [
+    "src/main/resources/assets/alexscaves",
+    "src/main/resources/data/alexscaves"
+  ],
+  "conversionRules": {
+    "directCandidates": [
+      "blocks",
+      "items",
+      "recipes",
+      "loot_tables",
+      "tags",
+      "advancements",
+      "sounds",
+      "translations",
+      "simple_particles"
+    ],
+    "customCode": [
+      "biome_generation",
+      "configured_features",
+      "placed_features",
+      "structures",
+      "complex_entity_ai",
+      "special_renderers",
+      "custom_screens",
+      "portals_and_dimensions",
+      "citadel_integration"
+    ],
+    "warning": "Resource JSON files are not automatically valid MCreator mod elements. Each must be mapped to the matching 2025.3 element schema or kept as a custom resource."
+  },
+  "attribution": {
+    "originalProject": "Alex's Caves",
+    "originalAuthor": "AlexModGuy",
+    "license": "GPL-3.0",
+    "preserveLicense": true
+  }
+}
